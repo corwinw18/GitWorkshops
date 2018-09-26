@@ -1,4 +1,5 @@
 # GitWorkshops
+michael
 Welcome to our GitHub workshop. Get ready to learn all about the basics of using GitHub. Below are list of useful links and commands that we'll be using throughout this workshop. If you'd like to see our full presentation [click here](https://docs.google.com/presentation/d/e/2PACX-1vSJ3RUco-cA7sxMaIPcdS86nhlFSYUD4YOYhlSQD5I2RuCsCpAbUHk2ziOIeqBZy34ISkOd5ozTpcPX/pub?start=true&loop=false&delayms=5000 "Workshop Presentation")
 
 # Pre Test
